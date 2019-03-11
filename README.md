@@ -1,5 +1,4 @@
 # hello-world
-This is my first repository.
 
 Hello reader!
 I am new to GitHub and beginning my journey as a programmer. I am seeking to improve my programming skills and leverage them to build network automation tools. The name I have chosen for this repository is part of the time-honored tradition in computer programming.
